@@ -1,5 +1,11 @@
 # CryptoLyngo
 
+## Netlify Demo
+https://objective-goldwasser-512947.netlify.app/
+
+## Video Demo
+https://docs.google.com/document/d/1jLR6D1fWedE9N_SnZO3XlUDI0poC8_Qdefwg4h3zMHo/edit?usp=sharing
+
 ## How to run
 #### Locally
 1. Run `yarn install` in the root dir
