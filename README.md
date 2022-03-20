@@ -1,4 +1,4 @@
-# CryptoLingo
+# CryptoLyngo
 
 [Design doc](https://docs.google.com/document/d/1fxuRTKFf341P8SKJe3x6EaBJ-4peBViteYEQDByH3Nw/edit)
 
